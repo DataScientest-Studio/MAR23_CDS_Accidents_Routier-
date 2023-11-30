@@ -1,40 +1,18 @@
-# ProjectTemplate
-
-## Explanations and Instructions
-
-This repository contains the files needed to initialize a project for your [DataScientest](https://datascientest.com/) training.
-
-It contains mainly the present README.md file and an application template [Streamlit](https://streamlit.io/).
-
 **README**
-
-The README.md file is a central element of any git repository. It allows you to present your project, its objectives, and to explain how to install and launch the project, or even how to contribute to it.
-
-You will have to modify different sections of this README.md to include the necessary informations.
-
-- Complete the sections (`## Presentation and Installation` `## Streamlit App`) following the instructions in these sections.
-- Delete this section (`## Explanations and Instructions`)
-
-**Streamlit Application**
-
-A [Streamlit] application template (https://streamlit.io/) is available in the [streamlit_app](streamlit_app) folder. You can use this template to start with your project.
 
 ## Presentation and Installation
 
-Complete this section with a brief description of your project, the context (including a link to the DataScientest course), and the objectives.
+This repository contains the code for our project **SARA**, developed during our [Data Scientist training](https://datascientest.com/en/data-scientist-course) at [DataScientest](https://datascientest.com/).
 
-You can also add a brief presentation of the team members with links to your respective networks (GitHub and/or LinkedIn for example).
-
-**Example:**
-
-This repository contains the code for our project **PROJECT_NAME**, developed during our [Data Scientist training](https://datascientest.com/en/data-scientist-course) at [DataScientest](https://datascientest.com/).
-
-The goal of this project is to **...**
+The SARA project (Automobile Analysis and Risk System) aims to predict the severity of road accidents in France by applying Data Science and machine learning techniques to a historical dataset.
 
 This project was developed by the following team :
 
-- John Doe ([GitHub](https://github.com/) / [LinkedIn](http://linkedin.com/))
-- Martin Dupont ([GitHub](https://github.com/) / [LinkedIn](http://linkedin.com/))
+- Cécile Pilon ([GitHub](https://github.com/) / [LinkedIn](http://linkedin.com/))
+- Fadimatou Abdoulaye ([GitHub](https://github.com/) / [LinkedIn](http://linkedin.com/))
+- Stéphane Maillard ([GitHub](https://github.com/) / [LinkedIn]([https://www.linkedin.com/in/st%C3%A9phane-maillard/])
+- Christophe Levra ([GitHub](https://github.com/) / [LinkedIn](http://linkedin.com/))
+- Abdoulaye Tall ([GitHub](https://github.com/) / [LinkedIn](http://linkedin.com/))
 
 You can browse and run the [notebooks](./notebooks). 
 
