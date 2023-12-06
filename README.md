@@ -24,8 +24,6 @@ pip install -r requirements.txt
 
 ## Streamlit App
 
-**Add explanations on how to use the app.**
-
 To run the app (be careful with the paths of the files in the app):
 
 ```shell
