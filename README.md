@@ -16,12 +16,6 @@ This project was developed by the following team :
 
 You can browse and run the [notebooks](./notebooks). 
 
-You will need to install the dependencies (in a dedicated environment) :
-
-```
-pip install -r requirements.txt
-```
-
 ## Streamlit App
 
 To run the app (be careful with the paths of the files in the app):
