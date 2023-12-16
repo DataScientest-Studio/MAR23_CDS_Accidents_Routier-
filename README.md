@@ -5,6 +5,7 @@
 This repository contains the code for our project **SARA**, developed during our [Data Scientist training](https://datascientest.com/en/data-scientist-course) at [DataScientest](https://datascientest.com/).
 
 The SARA project (Automobile Analysis and Risk System) aims to predict the severity of road accidents in France by applying Data Science and machine learning techniques to a historical dataset.
+The data for this project can be found at the following address: [Data.gouv.fr](https://www.data.gouv.fr/fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2022/)
 
 This project was developed by the following team :
 
